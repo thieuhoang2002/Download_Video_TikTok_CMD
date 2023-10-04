@@ -30,7 +30,7 @@ for url_tt in urls:
     querystring = {"url": url_tt, "hd": "1"}
 
     headers = {
-        "X-RapidAPI-Key": "d8199ece48mshb4423d796dcb58fp12a373jsn7cd7bfc8a7e8",
+        "X-RapidAPI-Key": "your-key",
         "X-RapidAPI-Host": "tiktok-video-no-watermark2.p.rapidapi.com"
     }
 
